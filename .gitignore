@@ -1,2 +1,6 @@
+# helper files for pdflatex
+*.aux
+*.log
+
 # for Mac OSX
 .DS_Store
