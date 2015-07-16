@@ -13,3 +13,8 @@ git clone https://github.com/KakkofonischesKwartett/constitution.git
 ```bash
 pdflatex -output-directory=</PATH/TO/PDF/DIR>
 ```
+
+###TODO
+-[ ] unify PDF generation with pandoc
+  -[ ] make pandoc template
+  -[ ] get rid of *.tex files
