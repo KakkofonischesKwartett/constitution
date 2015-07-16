@@ -15,6 +15,6 @@ pdflatex -output-directory=</PATH/TO/PDF/DIR>
 ```
 
 ###TODO
--[ ] unify PDF generation with pandoc
-  -[ ] make pandoc template
-  -[ ] get rid of *.tex files
+- [ ] unify PDF generation with pandoc
+  - [ ] make pandoc template
+  - [ ] get rid of *.tex files
