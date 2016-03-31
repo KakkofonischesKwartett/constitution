@@ -78,12 +78,6 @@ Grundsätzlich gilt:
 - Für alle Abstimmungen ist das Prinzip des Rekursiven Suffragiums anzuwenden.
 - Alle Abstimmungen sind unfrei und ungeheim. Sie werden ausschließlich durch das das DKK kontrolliert und gegebenenfalls korrigiert. Ätsch!
 
-# Geheimrat
-Bei besonders wichtigen Abstimmungen (oder bei denjenigen die als solche angesehen werden) und zur verfassungesmäßigen Aufrechterhaltung der Obskurität ist es dem der DKK erlaubt einen Geheimrat ein zu berufen. Wie der Name vermuten lässt geht es beim Geheimrat darum etwas geheimes zu raten. Dazu werden die Kwartettanten in einer Form organisiert die es zulässt für jeden genau einen linken Nachbarn zu bestimmen. Zur eigentlichen Abstimmung ziehen sich die Kwartetttanten nacheinaner in eine vom der DKK frei wählbare Ecke des Raumes, die sogenannte "Geheimratsecke", zurück und schreiben zwei Dinge auf ein Stück Papier:
-- Die eigene Stimme
-- Die Vermtung über die Stimme des zuvor bestimmten linken Nachbarn
-- Sobald alle ihre Stimmzettel werden diese öffentlich verlesen. Eine Stimme wird nur dann gewertet, wenn sie mit der Vorhersage des rechten Nachbarn übereinstimmt.
-- Die Stimmzettel sind natürlich so auszufüllen, dass Verhersage und Stimme klar zu erkennen sind. Sollte das nicht der Fall sein, liegt es am König zu raten wie das denn nun gemeint war.
 
 ## Artikel 1: Königswahl
 Prinzipiell kann jeder Kakkofonier zum König gewählt werden. Ein nicht-Mitglied des das DKK zu wählen wäre aber dumm und würde von keinem noch so betrunkenen Mitglied des das DKKs auch nur ansatzweise in Erwägung gezogen werden.
@@ -92,17 +86,24 @@ Die Wahl des Königs erfolgt durch lautes Ausrufen des Vor- und/oder Künstlerna
 
 Es nicht möglich ein- und denselben König innerhalb eines Jahre öfter als einmal zu wählen. Ist ein König gewählt, wird er durch lautes Aufsagen der feierlichen Formel „Möge sein Fehlklang auf ewig in den unendlichen Phasenfallen des hsf widerhallen." und einem frei erfundenen Schwur auf den Heiligen Stuhl in sein Amt eingeführt.
 
-## Artikel 2: Antraxabstimmungen
+## Artikel 2: Geheimrat
+Bei besonders wichtigen Abstimmungen (oder bei denjenigen die als solche angesehen werden) und zur verfassungesmäßigen Aufrechterhaltung der Obskurität ist es dem der DKK erlaubt einen Geheimrat ein zu berufen. Wie der Name vermuten lässt, geht es beim Geheimrat darum etwas geheimes zu raten. Dazu werden die Kwartettanten in einer Form organisiert die es zulässt für jeden genau einen linken Nachbarn zu bestimmen. Zur eigentlichen Abstimmung ziehen sich die Kwartetttanten nacheinander in eine vom der DKK frei wählbare Ecke des Raumes, die sogenannte "Geheimratsecke", zurück und schreiben zwei Dinge auf ein Stück Papier:
+- Die eigene Stimme
+- Die Vermutung über die Stimme des zuvor bestimmten linken Nachbarn
+- Sobald alle ihre Stimmzettel abgegeben haben werden diese öffentlich verlesen. Eine Stimme wird nur dann gewertet, wenn sie mit der Vorhersage des rechten Nachbarn übereinstimmt.
+- Die Stimmzettel sind natürlich so auszufüllen, dass Vorhersage und Stimme klar zu erkennen sind. Sollte das nicht der Fall sein, liegt es am König zu raten wie das denn nun gemeint war.
+
+## Artikel 3: Antraxabstimmungen
 Prinzipiell ist jedes Mitglied des das DKK befähigt, sofern physisch dazu in der Lage, einen Antrag vorzubringen, der der DKK ist deutlich befähigter.
 
 Über Anträge zu Anträgen ist nach der Antraxabstimmungsordnung abzustimmen. Im Zweifelsfall des Zweifels, oder eine unordnungsgemäßen Uneinigkeit hat der amtierende der DKK zwei Stimmen.
 
 Es wird mit einfacher Mehrheit entschieden.
 
-## Artikel 3: Sonstige Abstimmungen
+## Artikel 4: Sonstige Abstimmungen
 Es gelten die Grundsätzlichen Abstimmungsmoditäten.
 
-## Artikel 4: Verfassungsveränderungen oder Andersmachungen
+## Artikel 5: Verfassungsveränderungen oder Andersmachungen
 Um die Verfassung zu ändern oder anders zu machen muss ein Antrag von einem Inhaber eines sonstigen Amtes vor das  das DKK vorgebracht werden. Der Vorbringer des Antrages muss zuvor vom das DKK durch Bestechung, Einschüchterung oder physische Gewalt zur Vorbringung des Antrages genötigt worden sein.
 
 Das das DKK wird dann der Regel des Rekursiven Suffragiums und der allgemeinen Abstimmungordnung über den Antrag abstimmungen.
