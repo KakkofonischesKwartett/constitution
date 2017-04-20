@@ -44,7 +44,8 @@ Jeder Kakkofonier, sei er noch so nutzlos, ist dazu aufgehalten und angerufen de
 ### Artikel 1: Das Kakkofonische Kwartett
 Das Kakkofonische Kwarttet (DKK) setzt sich aus vier Kakkofoniern zusammen. Feste Mitglieder sind die drei Ur-Kakkofonier, die im Jahr der Kakkofonischen Entstehung, anno latrinum, aus einem Tiefspüler gekrochen sind. Die drei Ur-Kakkofonier sind Lukas, Max und Bo. Das vierte Mitglied des Kwartetts ist ein völlig beliebiger, dahergelaufener Kakkofonier der von den drei Ur-Kakkofoniern mit einer drei-drittel Mehrheit gewählt wird.
 
-Die primäre Pflicht des DKKs besteht darin möglichst viele Abstimmungen, anhand obskurer Abstimmungsmoditäten (siehe Absatz IV: Abstimmungsmoditäten) erfolgreich durchzuführen und die Verfassung zu verbreiten. Eine weitere Aufgabe besteht darin durch exzessive Gehirnwäsche, Einschüchterung oder Bestechung möglichst viele Personen und ISTUFFler zur Kakkofonischen Weltanschauung zu bekehren und sie damit zu völlig willens- und rechtelosen Untertanen zu machen.
+Die primäre Pflicht des das DKKs besteht darin in möglichst vielen Abstimmungen durch Abstimmung abzustimmen. Dies ist anhand obskurer Abstimmungsmoditäten (siehe IV. Abstimmungsmoditäten) erfolgreich durchzuführen um die Verfassung zu verbreitern.
+Eine weitere Aufgabe besteht darin durch exzessive Gehirnwäsche, Einschüchterung oder Bestechung möglichst viele Personen und ISTUFFler zur Kakkofonischen Weltanschauung zu bekehren und sie damit zu völlig willens- und rechtelosen Untertanen zu machen.
 
 Eine Expansion des DKKs ist prinzipiell durch eine Sonstige Abstimmung des DKKs möglich, allerdings würde eine solche Entscheidung die Machtbasis der Ur-Kakkofonier mindern. Aber wer will das denn?
 
