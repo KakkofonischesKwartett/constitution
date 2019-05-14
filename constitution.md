@@ -113,3 +113,10 @@ Es gelten die Grundsätzlichen Abstimmungsmoditäten (_siehe oben_).
 Um die Verfassung zu ändern oder anders zu machen muss ein Antrag von einem Inhaber eines sonstigen Amtes vor das das DKK vorgebracht werden. Der Vorbringer des Antrages muss zuvor vom das DKK durch Bestechung, Einschüchterung oder physische Gewalt zur Vorbringung des Antrax genötigt worden sein.
 
 Das das DKK wird dann der Regel des Rekursiven Suffragiums und der allgemeinen Abstimmungordnung folgend über den Antrag abstimmen.
+
+## V. Wurmfortsätze und Appendizes
+
+### 1. Das Rekursive Suffragium
+
+Um sicherzustellen, dass die beachtlichen, geistigen Energien des das DKKs sinnvoll kanalisiert werden und zur Verhinderung der Verschwendung der Bier-basierten Ressourcen existiert Rekursive Suffragium.
+Damit sich das das DKK nicht mit unwichtigen, alkoholfreien oder schlicht und ergreifend blöden Abstimmungen beschäftigen muss, muss vor einer Abstimmung zuvor abgestimmt werden, ob die vorgeschlagene Abstimmung abstimmungswürdig erscheint und zur Abstimmung zugelassen wird. Danach kann die eigentliche Abstimmungen, bei der über den Inhalt der tatsächlichen Abstimmung abgestimmt wird. Dieses Verfahren kann rekursiv wiederholt werden, bei unklaren Unklarheiten, _siehe_ Rekursives Suffragium.
