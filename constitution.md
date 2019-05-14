@@ -85,28 +85,28 @@ Grundsätzlich gilt:
 - Für alle Abstimmungen ist das Prinzip des Rekursiven Suffragiums anzuwenden.
 - Alle Abstimmungen sind unfrei und ungeheim. Sie werden ausschließlich durch das das DKK kontrolliert und gegebenenfalls korrigiert. Ätsch!
 
-## Artikel 1: Kakkofonische Königswahl
+### Artikel 1: Kakkofonische Königswahl
 Prinzipiell kann jeder Kakkofonier zum König gewählt werden. Ein nicht-Mitglied des das DKKs zu wählen wäre aber dumm und würde von keinem noch so betrunkenen Mitglied des das DKKs auch nur ansatzweise in Erwägung gezogen werden.
 
 Die Wahl des Königs erfolgt durch lautes Ausrufen des Vor- und/oder Künstlernamens des favorisierten Kandidaten. Somit ist es die einzige Abstimmung im Kakkofonischen Staat, bei der nicht mit „dafür" oder „dagegen" abgestimmt werden kann.
 
 Es nicht möglich ein- und denselben König innerhalb eines Anno Latrinums öfter als einmal zu wählen. Ist ein König gewählt, wird er durch lautes Aufsagen der feierlichen Formel und einem frei erfundenen Schwur auf den Heiligen Stuhl in sein Amt eingeführt. Die heilige Formel lautet: „Möge sein Fehlklang auf ewig in den unendlichen Phasenfallen des hsfes widerhallen."
 
-## Artikel 2: Geheimrat
+### Artikel 2: Geheimrat
 Bei besonders wichtigen Abstimmungen (oder bei denjenigen die als solche angesehen werden) und zur verfassungemäßen Aufrechterhaltung der Obskurität ist es dem der DKK erlaubt einen Geheimrat einzuberufen. Wie der Name vermuten lässt, geht es beim Geheimrat darum etwas geheimes zu raten. Dazu werden die Kwartettanten in einer Form organisiert die es zulässt für jeden genau einen linken Nachbarn zu bestimmen. Zur eigentlichen Abstimmung ziehen sich die Kwartetttanten nacheinander in eine vom der DKK frei wählbare Ecke des Raumes, die sogenannte "Geheimratsecke", zurück und schreiben zwei Dinge auf ein Stück Papier:
 - Die eigene Stimme
 - Die Vermutung über die Stimme des zuvor bestimmten linken Nachbarns
 - Sobald alle ihre Stimmzettel abgegeben haben werden diese öffentlich verlesen. Eine Stimme wird nur dann gewertet, wenn sie mit der Vorhersage des rechten Nachbarn übereinstimmt.
 - Die Stimmzettel sind natürlich so auszufüllen, dass Vorhersage und Stimme klar zu erkennen sind. Sollte das nicht der Fall sein, liegt es am der DKK zu raten, wie das denn nun gemeint war.
 
-## Artikel 3: Antraxabstimmungen
+### Artikel 3: Antraxabstimmungen
 Prinzipiell ist jedes Mitglied des das DKKs befähigt, sofern physisch dazu in der Lage, einen Antrag vorzubringen. Der der DKK ist deutlich befähigter (_siehe oben_).
 
 Über Anträge zu Anträgen ist nach der Antraxabstimmungsordnung abzustimmen. Im Zweifelsfall des Zweifels, oder einer unordnungsgemäßen Uneinigkeit hat der amtierende der DKK zwei Stimmen.
 
 Es wird mit einfacher Mehrheit entschieden.
 
-## Artikel 4: Sonstige Abstimmungen
+### Artikel 4: Sonstige Abstimmungen
 Es gelten die Grundsätzlichen Abstimmungsmoditäten (_siehe oben_).
 
 ## Artikel 5: Verfassungsveränderungen oder Andersmachungen
